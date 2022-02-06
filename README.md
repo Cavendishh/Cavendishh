@@ -1,4 +1,7 @@
-### Hi there 👋 *Sorry but this is under construction*
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Sadly this is still under construction
+<a href="https://www.linkedin.com/in/janne-kavander/">
+  <img align="left" alt="Janne Kavander's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!--
 **Cavendishh/Cavendishh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +20,7 @@ Here are some ideas to get you started:
 [![Cavendishh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cavendishh&count_private=true&theme=github_dark&show_icons=true&hide=issues)](https://github.com/Cavendishh?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavendishh&theme=github_dark)](https://github.com/Cavendishh?tab=repositories)
+
+Languages and Tools:
+
+    
