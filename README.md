@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 [![Cavendishh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cavendishh&count_private=true&theme=github_dark&show_icons=true&hide=issues)](https://github.com/Cavendishh?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavendishh&theme=github_dark)](https://github.com/Cavendishh?tab=repositories)
-
-Languages and Tools:
-
-    
