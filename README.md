@@ -1,16 +1,16 @@
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Sadly this profile introduction is still under construction
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> Sadly this profile introduction is still under construction
 
-```
+```js
 const introduceMyself = (): void => {
     const person: Person = {
-        name: 'Janne Kavander',
+        name: "Janne Kavander",
         career: "Software Engineer",
-        email: 'kavanderjanne@gmail.com',
+        email: "kavanderjanne@gmail.com",
         age: new Date().getFullYear() - 1996,
-        hobbies: ['Investing', 'Tennis', 'Reading', 'Programming'],
+        hobbies: ["Investing", "Tennis", "Reading", "Programming"],
         websites: {
-            linkedIn: 'https://www.linkedin.com/in/janne-kavander/',
-            website: 'https://www.cavendish.fi/'
+            linkedIn: "https://www.linkedin.com/in/janne-kavander/",
+            website: "https://www.cavendish.fi/"
         }
     }
 
