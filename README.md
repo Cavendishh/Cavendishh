@@ -1,7 +1,11 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Sadly this profile introduction is still under construction
+
 <a href="https://www.linkedin.com/in/janne-kavander/">
-  <img align="left" alt="Janne Kavander's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Janne Kavander's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 ![Cavendishh github visitor counter](https://komarev.com/ghpvc/?username=Cavendishh)
 
@@ -24,6 +28,7 @@ const introduceMyself = (): void => {
 
 introduceMyself()
 ```
+
 
 <!--
 **Cavendishh/Cavendishh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
