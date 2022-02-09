@@ -57,6 +57,14 @@ introduceMyself()
     <img alt="" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+    <a href="https://github.com/Cavendishh?tab=repositories">
+      <img align="center" alt="Janne Kavander's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavendishh&layout=compact&theme=github_dark" />
+      <img align="center" alt="Janne Kavander's Github stats" src="https://github-readme-stats.vercel.app/api?username=Cavendishh&count_private=true&theme=github_dark&show_icons=true&hide=issues" />
+    </a>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/janne-kavander/">
     <img alt="Janne Kavander's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -73,13 +81,4 @@ introduceMyself()
   
 <p align="center">
   <img src='https://komarev.com/ghpvc/?username=Cavendishh' />
-</p>
-
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-    <a href="https://github.com/Cavendishh?tab=repositories">
-      <img align="center" alt="Janne Kavander's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavendishh&layout=compact&theme=github_dark" />
-      <img align="center" alt="Janne Kavander's Github stats" src="https://github-readme-stats.vercel.app/api?username=Cavendishh&count_private=true&theme=github_dark&show_icons=true&hide=issues" />
-    </a>
 </p>
