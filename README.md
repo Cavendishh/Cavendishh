@@ -39,10 +39,10 @@ introduceMyself()
 </p>
 
 
-
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
     <a href="https://github.com/Cavendishh?tab=repositories">
+      <img align="center" alt="Janne Kavander's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavendishh&layout=compact&theme=github_dark" />
       <img align="center" alt="Janne Kavander's Github stats" src="https://github-readme-stats.vercel.app/api?username=Cavendishh&count_private=true&theme=github_dark&show_icons=true&hide=issues" />
-      <img align="center" alt="Janne Kavander's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavendishh&theme=github_dark" />
     </a>
 </p>
