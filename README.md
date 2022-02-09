@@ -3,7 +3,7 @@
   <img align="left" alt="Janne Kavander's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=Cavendishh)
+![Cavendishh github visitor counter](https://komarev.com/ghpvc/?username=Cavendishh)
 
 ```
 const introduceMyself = (): void => {
