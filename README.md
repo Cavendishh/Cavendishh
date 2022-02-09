@@ -3,6 +3,26 @@
   <img align="left" alt="Janne Kavander's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+```
+const introduceMyself = (): void => {
+    const person: Person = {
+        name: 'Janne Kavander',
+        career: "Software Engineer",
+        email: 'kavanderjanne@gmail.com',
+        age: new Date().getFullYear() - 1996,
+        hobbies: ['Investing', 'Tennis', 'Reading', 'Programming'],
+        websites: {
+            linkedIn: 'https://www.linkedin.com/in/janne-kavander/',
+            website: 'https://www.cavendish.fi/'
+        }
+    }
+
+    console.log(`Hello there! My name is ${person.name}. Let me introduce myself more thorough: ${JSON.stringify(person)}`)
+}
+
+introduceMyself()
+```
+
 <!--
 **Cavendishh/Cavendishh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
